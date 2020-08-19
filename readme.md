@@ -14,9 +14,9 @@
 
 > Desafio do GoStack
 
-![GitHub last commit](https://img.shields.io/github/last-commit/amaurioliveira/https://github.com/AmauriOliveira/conceitos-node-goStack)
-![license](https://img.shields.io/github/license/amaurioliveira/https://github.com/AmauriOliveira/conceitos-node-goStack)
-![GitHub repo size](https://img.shields.io/github/repo-size/amaurioliveira/https://github.com/AmauriOliveira/conceitos-node-goStack)
+![GitHub last commit](https://img.shields.io/github/last-commit/amaurioliveira/conceitos-node-goStack)
+![license](https://img.shields.io/github/license/amaurioliveira/conceitos-node-goStack)
+![GitHub repo size](https://img.shields.io/github/repo-size/amaurioliveira/conceitos-node-goStack)
 
 ## :telescope: Overview
 
