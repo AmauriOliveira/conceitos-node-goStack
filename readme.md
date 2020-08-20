@@ -45,7 +45,7 @@ Feel free to check [issues page](https://github.com/amaurioliveira/https://githu
 **Amauri Oliveira** 
 * Email: amauriibate32@hotmail.com
 * GitHub: [@amaurioliveira](https://github.com/amaurioliveira)
-* LinkedIn: [@https://www.linkedin.com/in/amauri-oliveira-058066192/](https://linkedin.com/in/https://www.linkedin.com/in/amauri-oliveira-058066192/)
+* LinkedIn: [@amauri-oliveira-058066192](https://linkedin.com/in/amauri-oliveira-058066192)
 
 ## :books: License
 
