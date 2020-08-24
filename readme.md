@@ -38,7 +38,7 @@ Contributions, issues and feature requests are welcome!
 - 🐛 Find and report issues
 - 📥 Submit PRs to help solve issues or add features
 
-Feel free to check [issues page](https://github.com/amaurioliveira/https://github.com/AmauriOliveira/conceitos-node-goStack/issues). You can also take a look at the contributing guide.
+Feel free to check [issues page](https://github.com/amaurioliveira/conceitos-node-goStack/issues). You can also take a look at the contributing guide.
 
 ## :bow: Author
 
